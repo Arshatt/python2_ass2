@@ -3,15 +3,15 @@
 
 # Installation
 ```
-pip install django
-pip install psycopg2
+pip3 install django
+pip3 install psycopg2
 npm install chart.js
 
 ```
 
 # Usage
 ```
-python manage.py runserver
+python3 manage.py runserver
 ```
 
 # Examples
