@@ -1,3 +1,0 @@
-Django==4.0.1
-Python==3.0.1
-Postgresql==5.5
