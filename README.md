@@ -14,7 +14,6 @@ python manage.py runserver
 
 # Examples
 Outputs will be like these:
-![photo_2022-02-10 20 36 31](https://user-images.githubusercontent.com/53335356/153430236-c68a9fd8-55bf-4959-84bc-df7cb4b574f7.jpeg)
 
 <img width="1440" alt="1" src="https://user-images.githubusercontent.com/53335356/153430257-5d7191c7-2e00-43c2-986f-a955b81d7c4f.png">
 <img width="1440" alt="2" src="https://user-images.githubusercontent.com/53335356/153430271-f2e0e296-3d6a-4121-b190-1df66df0ecea.png">
