@@ -1,15 +1,37 @@
-# Blockchain analytics tool using Django | Team: Zhumabaev Alikhan, Kalnazar Sayat, Talap Arshat | Group SE-2001
+# python2-assignment-2
+## Title:
+Assignment_2 Blockchain analytics tool using Django!
+Team: CryptoPirates
+Members: Kalnazar Sayat, Talap Arshat, Zhumabayev Alikhan
 
-# Installation
-```
-pip3 install django
+## Installation
 
-```
+PyPI
+```bash
+pip install django
+pip install psycopg2
+npm install chart.js
 
-# Usage
-cd desktop 
 
-django-admin startproject todo_list
+or from source
+bash
+django - https://docs.djangoproject.com/en/4.0/
+psycopg2 - https://www.psycopg.org/docs/
+chart.js - https://www.chartjs.org/docs/latest/getting-started/installation.html
 
-# Examples
-Firstly you should create superuser in the terminal, then login. Overall 3 functions available in the ToDoApp: create, update, delete. Also description, complete checkbox is placed. You can create more users and work further with the TaskList!
+## Usage
+bash
+python manage.py runserver
+
+
+## Examples
+Outputs will be like these:
+![image](https://user-images.githubusercontent.com/77783049/152748592-5d147c32-0251-4c4b-85c5-ab46d3a245fd.png)
+![image](https://user-images.githubusercontent.com/77783049/152748678-6acfa392-3794-4c9f-9a90-90bc024c9bad.png)
+![image](https://user-images.githubusercontent.com/77783049/152748378-dc677c9c-e8e7-4afa-8827-fb74c9338b32.png)
+bash
+
+
+Our tokens saved in database
+## License
+[MIT](https://choosealicense.com/licenses/mit/)```
