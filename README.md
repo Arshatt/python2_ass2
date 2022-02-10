@@ -10,7 +10,9 @@ npm install chart.js
 ```
 
 # Usage
+```
 python manage.py runserver
+```
 
 # Examples
 Outputs will be like these:
